@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Info Activity</string>
+    <string name="chooser">Choose an app to send this cool info to!</string>
+</resources>
